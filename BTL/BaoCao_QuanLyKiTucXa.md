@@ -24,7 +24,7 @@
 - Đỗ Thúy Ngân: UserControl Quản lý phòng.
 - Phan Thị Phương Trúc: UserControl Đăng ký phòng.
 - Đỗ Quang An: UserControl Thanh toán tiền phòng.
-- Dặng Hoàng Phúc: UserControl Thống kê - tra cứu.
+- Đặng Hoàng Phúc: UserControl Thống kê - tra cứu.
 
 <br>
 
