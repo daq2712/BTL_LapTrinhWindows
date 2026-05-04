@@ -14,7 +14,7 @@ Project C# WinForms cơ bản theo file `BTL LaptrinhWin.pdf`.
 
 1. Mở SQL Server Management Studio và chạy file `scripts/schema.sql`.
 2. Mở `DormitoryManagement.sln` bằng Visual Studio 2022.
-3. Nếu SQL Server không chạy ở `localhost`, sửa chuỗi kết nối trong `DormitoryManagement/AppConfig.cs`.
+3. Nếu SQL Server không chạy, sửa chuỗi kết nối trong `DormitoryManagement/AppConfig.cs`.
 4. Restore NuGet packages rồi chạy project `DormitoryManagement`.
 
 Project dùng `.NET 8 Windows Forms` và package `Microsoft.Data.SqlClient`.
